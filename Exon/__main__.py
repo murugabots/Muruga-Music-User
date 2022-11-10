@@ -148,6 +148,12 @@ buttons = [
     [
         InlineKeyboardButton(text="ᴄᴏᴍᴍᴀɴᴅs ⚡", callback_data="help_back"),
         InlineKeyboardButton(text="ᴀʙᴏᴜᴛ ✨", callback_data="about_"),
+        InlineKeyboardButton(
+                            text="ᴏᴡɴᴇʀ",
+                            url=f"https://t.me/Thavarajtj",
+        InlineKeyboardButton(
+                            text="ꜱᴜᴘᴘᴏʀᴛ",
+                            url=f"https://t.me/tamilbestfriendss}",    
     ],
 ]
 
@@ -768,6 +774,15 @@ def main():
                 animation="https://telegra.ph/file/8dea393ddf4fc2e339179.gif",
                 caption=f"""
 ㅤ🥀 {dispatcher.bot.first_name} ɪs ᴀʟɪᴠᴇ ʙᴀʙʏ .....
+Vanakam Makaley Idhu ungal
+ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ 
+ᴡʜɪᴄʜ ᴄᴀɴ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ᴍᴀɴᴀɢᴇ
+ᴀɴᴅ ꜱᴇᴄᴜʀᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ
+ᴡɪᴛʜ ʜᴜɢᴇ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ
+ᴘʟᴜɢɪɴꜱ ʟɪᴋᴇ ; *ꜰɪʟᴛᴇʀꜱ* , *ɴᴏᴛᴇꜱ* , 
+*ᴡᴇʟᴄᴏᴍᴇ* , *ɢᴏᴏᴅ ʙʏᴇ* , *ʙᴀɴɴɪɴɢ* , 
+*ᴍᴜᴛɪɴɢ*, *ʟᴏᴄᴋs* , *Tagall* ᴀɴᴅ ᴍᴀɴʏ ᴍᴏʀᴇ.
+*Idhanudaya Full Commends Venumana Bot La Help Nu Type Pnnunga!*
 
 ━━━━━━━━━━━━━
 ⍟ **ᴍʏ ᴏᴡɴᴇʀ :** [Ammu](https://t.me/{OWNER_USERNAME})
