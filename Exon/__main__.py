@@ -142,19 +142,12 @@ I'm ᴀᴍ  ᴀʟɪᴠᴇ  ʙᴀʙʏ !
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕ ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ ➕ ", url=f"t.me/{BOT_USERNAME}?startgroup=true"
+            text="➕ ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ ➕ ", url=f"t.me/thavarajtj?startgroup=true"
         )
     ],
     [
         InlineKeyboardButton(text="ᴄᴏᴍᴍᴀɴᴅs ⚡", callback_data="help_back"),
         InlineKeyboardButton(text="ᴀʙᴏᴜᴛ ✨", callback_data="about_"),
-        InlineKeyboardButton(
-                            text="ᴏᴡɴᴇʀ",
-                            url=f"https://t.me/Thavarajtj",
-        InlineKeyboardButton(
-                            text="ꜱᴜᴘᴘᴏʀᴛ",
-                            url=f"https://t.me/tamilbestfriendss}",    
-    ],
 ]
 
 
